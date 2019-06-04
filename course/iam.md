@@ -37,9 +37,9 @@ Click *Apply an IAM password policy* and then *manage*.
 
 Enable:
 
-[x] - Require at least one uppercase letter.
-[x] - Require at least one lowercase letter.
-[x] - Require at least one number.
-[x] - Require at least one non-alphanumeric character.
-[x] - Allow users to change their own password.
-[x] - Minimum password length. (12)
+- [x] Require at least one uppercase letter.
+- [x] Require at least one lowercase letter.
+- [x] Require at least one number.
+- [x] Require at least one non-alphanumeric character.
+- [x] Allow users to change their own password.
+- [x] Minimum password length. (12)
