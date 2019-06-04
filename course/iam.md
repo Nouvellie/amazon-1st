@@ -67,4 +67,4 @@ Select *AWS service*, and then:
 - **These are not the same as a password.** You cannot use the access key id & secret access key to login into the console. You can use this access AWS via the APIs and command line, however.
 - **You only get to view these once.** If you lose them, you have to regenerate them. So, save them in a secure location.
 - **Always setup multifactor authentication on your root account.**
-- **You can create and customise your own password rotation policies.
+- **You can create and customise your own password rotation policies.**
