@@ -50,7 +50,7 @@ Enable:
 - [x] Minimum password length. (12)
 
 ## Role
-#### Create role (s3)
+#### Create role: (s3)
 
 Select *AWS service*, and then:
 
