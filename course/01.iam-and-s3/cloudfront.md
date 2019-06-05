@@ -23,3 +23,27 @@ It can be used to deliver your entire website, including dynamic, static, stream
 - Edge location are not just READ only. (you can write to them too, ie put an object on to them)
 - Objects are cached for the life of the **TTL**. **(time to live)**
 - You can clear cached objects, but you will be charged.
+
+## Creation
+##### CloudFront getting started
+
+Click on *CloudFront*, then *create distribution*.
+
+- Select a delivery method for your content.
+	- [x] Web.
+	- [] RTMP.
+
+#### Origin settings
+
+- Origin domain name: \<cloudname\>
+- Origin path: \<filedefaultpath\> (optional)
+- Origin ID: \<S3-cloudname\>
+- Restrict bucket access:
+	- [] Yes.
+	- [x] No.
+
+The rest of the options by default.
+
+## CloudFront domain
+
+Copy the domain name, and open the URL with the S3 bucket filename as extension.
