@@ -39,7 +39,7 @@ Click on *CloudFront*, then *create distribution*.
 - Origin path: \<filedefaultpath\> (optional)
 - Origin ID: \<S3-cloudname\>
 - Restrict bucket access:
-	- [] Yes.
+	- [ ] Yes.
 	- [x] No.
 
 The rest of the options by default.
