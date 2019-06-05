@@ -31,7 +31,7 @@ Click *customize* and change the IAM user sign-in link.
 
 Click *activate MFA on your root account*, and select the *Virtual MFA device* option. Using a mobile device and a google authenticator add two consecutive MFA codes bellow.
 
-#### Create IAM Users:
+#### Create IAM users:
 
 - Click *create individual IAM users*, and create a group with some permission to end.
 - Click *users* and then *security credentials*, here we can set a custom password for the account, and below te git credential.
