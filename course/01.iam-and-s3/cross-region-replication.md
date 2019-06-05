@@ -6,7 +6,7 @@ Click on *management* and then **Replication**.
 #### Replication rule:
 
 - Set source.
-	- [x] Entire bucket. <\bucketname\>
+	- [x] Entire bucket. \<bucketname\>
 
 - Destination.
 	- [x] Create a new bucket.
