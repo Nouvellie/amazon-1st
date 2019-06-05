@@ -7,4 +7,4 @@
 - [S3 Security and encryption.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/01.iam-and-s3/s3-security-and-encryption.md)
 - [S3 Versioning.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/01.iam-and-s3/s3-versioning.md)
 - [S3 Lifecycle and glaciar.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/01.iam-and-s3/s3-lifecycle-mgmt-and-glacier.md)
-- [Cross region replication.]()
+- [Cross region replication.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/01.iam-and-s3/cross-region-replication.md)
