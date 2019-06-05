@@ -6,17 +6,17 @@ Click on *management* and then **Replication**.
 #### Replication rule:
 
 - Set source.
-	- [x] Entire bucket. <\bucketname>
+	- [x] Entire bucket. <\bucketname\>
 
 - Destination.
 	- [x] Create a new bucket.
-		- Bucket name: <bucketname>
-		- Bucket region: <bucketregion> (<US East (N. Virginia)>)
-	- Destination bucket: <destinationbucketname>
+		- Bucket name: \<bucketname\>
+		- Bucket region: \<bucketregion\> (<US East (N. Virginia)>)
+	- Destination bucket: \<destinationbucketname\>
 
 - Configuration rule.
-	- IAM role: <newrole>
-	- Rule name: <rolename>
+	- IAM role: \<newrole\>
+	- Rule name: \<rolename\>
 	- [x] Status.
 
 #### Tips:
