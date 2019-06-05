@@ -63,8 +63,8 @@ Select *AWS service*, and then:
 - IAM is universal: It does not apply to regions at this time.
 - The **root account** is simply, the account created when first setup your AWS account, It has complete Admin Access.
 - New users have **no permissions** when first created.
-- New users are assigned **access key id & secret access keys,** when first created.
-- **These are not the same as a password.** You cannot use the access key id & secret access key to login into the console. You can use this access AWS via the APIs and command line, however.
-- **You only get to view these once.** If you lose them, you have to regenerate them. So, save them in a secure location.
-- **Always setup multifactor authentication on your root account.**
-- **You can create and customise your own password rotation policies.**
+- New users are assigned **access key id & secret access keys**, when first created.
+- **These are not the same as a password**. You cannot use the access key id & secret access key to login into the console. You can use this access AWS via the APIs and command line, however.
+- **You only get to view these once**. If you lose them, you have to regenerate them. So, save them in a secure location.
+- **Always setup multifactor authentication on your root account**.
+- **You can create and customise your own password rotation policies**.
