@@ -5,4 +5,5 @@
 - [S3 101.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/01.iam-and-s3/s3-101.md)
 - [S3 Bucket.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/01.iam-and-s3/s3-bucket.md)
 - [S3 Security and encryption.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/01.iam-and-s3/s3-security-and-encryption.md)
-- [S3 Versioning](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/01.iam-and-s3/s3-versioning.md)
+- [S3 Versioning.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/01.iam-and-s3/s3-versioning.md)
+- [S3 Lifecycle and glaciar.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/01.iam-and-s3/s3-lifecycle-mgmt-and-glacier.md)
