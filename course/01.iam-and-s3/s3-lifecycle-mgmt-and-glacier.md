@@ -5,7 +5,7 @@ Click on *management* and then **Lifecycle**.
 
 #### Name and scope:
 
-- Enter a rule name: <MyLifecycleRule>
+- Enter a rule name: \<MyLifecycleRule\>
 
 #### Transition:
 
