@@ -10,3 +10,4 @@
 - [Cross region replication.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/01.iam-and-s3/cross-region-replication.md)
 - [S3 - Transfer acceleration.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/01.iam-and-s3/s3-transfer-acceleration.md)
 - [CloudFront.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/01.iam-and-s3/cloudfront.md)
+- [Snowball.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/01.iam-and-s3/snowball.md)
