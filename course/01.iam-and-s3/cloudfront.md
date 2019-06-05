@@ -22,3 +22,4 @@ It can be used to deliver your entire website, including dynamic, static, stream
 
 - Edge location are not just READ only. (you can write to them too, ie put an object on to them)
 - Objects are cached for the life of the **TTL**. **(time to live)**
+- You can clear cached objects, but you will be charged.
