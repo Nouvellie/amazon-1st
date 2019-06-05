@@ -34,3 +34,18 @@ Stored volumes let you store your primary data locally, while asynchronously bac
 ## Cached Volumes
 
 Cached volumes let you use Amazon Simple Storage Service (Amazon S3) as your primary data storage while retaining frequently accessed data locally in your storage gateway. Cached volumes minimize the need to scale your on-premises storage infrastructure, while still prividing your applications with low-latency access to their frequently accessed data. You can create storage volumes up to 32 TiB in size and attach to them as iSCSI devices from your on-premises application servers. You gateway stores data that you write to these volumes in Amazon S3 and retains recently read data in your on-premises storage gateway's cache and upload buffer storage. (1 GB - 32 TB in size for Cached Volumes)
+
+## Tape Gateway
+
+Tape Gateway offers a durable, cost-effective solution to archive your data in the AWS Cloud. The VTL interface it provides lets you leverage your existing tape-based backup application infrastructure to store data on virtual tape cartridges that you create on your tape gateway. Each tape gateway is preconfigured with a media changer and tape drives, which are available to your existing client backup applications as iSCSI devices. You add tpe cartridges as you need to archive your data. Supported by NetBackup, Backup Exec, Veeam, etc.
+
+## Tips
+#### File Gateway:
+
+- File Gateway: For flat files, stored directly on S3.
+
+#### Volume Gateway:
+
+- Stored Volumes: Entire Dataset is stored on site and is asynchronously backed up to S3.
+- Cached Volumes: Entire Dataset is stored on S3 and the most frequently accessed data is cached on site.
+
