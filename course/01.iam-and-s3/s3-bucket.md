@@ -2,7 +2,8 @@
 ## S3 management console
 #### Create:
 
-- Bucket name: > bucketname
+- Bucket name: 
+> bucketname
 - Region: <US East (N. Virginia)> (or any other)
 - [x] Block: *all* public access.
 - Storage class: `<Standard>` (has none retrieval fees)
