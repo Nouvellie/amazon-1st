@@ -8,7 +8,7 @@
 - [S3 Versioning.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/01.iam-and-s3/s3-versioning.md)
 - [S3 Lifecycle and glaciar.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/01.iam-and-s3/s3-lifecycle-mgmt-and-glacier.md)
 - [Cross region replication.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/01.iam-and-s3/cross-region-replication.md)
-- [S3 - Transfer acceleration.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/01.iam-and-s3/s3-transfer-acceleration.md)
+- [S3 Transfer acceleration.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/01.iam-and-s3/s3-transfer-acceleration.md)
 - [CloudFront.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/01.iam-and-s3/cloudfront.md)
 - [Snowball.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/01.iam-and-s3/snowball.md)
 - [Storage gateway.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/01.iam-and-s3/storage-gateway.md)
