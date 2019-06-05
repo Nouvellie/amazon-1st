@@ -1,6 +1,6 @@
 # BUCKET S3
 ## S3 management console
-#### Create
+#### Create:
 
 - Bucket name: <bucketname>
 - Region: <US East (N. Virginia)> (or any other)
