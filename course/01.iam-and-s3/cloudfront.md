@@ -31,7 +31,7 @@ Click on *CloudFront*, then *create distribution*.
 
 - Select a delivery method for your content.
 	- [x] Web.
-	- [] RTMP.
+	- [ ] RTMP.
 
 #### Origin settings
 
