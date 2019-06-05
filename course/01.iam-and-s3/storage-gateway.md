@@ -48,4 +48,3 @@ Tape Gateway offers a durable, cost-effective solution to archive your data in t
 
 - Stored Volumes: Entire Dataset is stored on site and is asynchronously backed up to S3.
 - Cached Volumes: Entire Dataset is stored on S3 and the most frequently accessed data is cached on site.
-
