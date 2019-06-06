@@ -8,3 +8,4 @@
 - [AMI types.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/02.ec2/ami-types.md)
 - [Encrypt.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/02.ec2/encrypt.md)
 - [CloudWatch 101.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/02.ec2/cloudwatch-101.md)
+- [CloudWatch.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/02.ec2/cloudwatch.md)
