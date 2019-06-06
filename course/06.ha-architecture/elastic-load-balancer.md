@@ -19,3 +19,9 @@ Are best suited for load balancing of TCP traffic where extreme performance is r
 Are the legacy Elastic Load Balancers. You can load balance HTTP/HTTPS applications and use Layer 7-specific features, such as X-Forwarded and sticky sessions. You can also use strict Layer 4 load balancing for applications that rely purely on the TCP protocol.
 
 If your application stops responding, the ELB (Classic Load Balancer) responds with a 504 error. This means that the application is having issues. This could be either at the web server layer or at the database layer. Identify where the application is failing, and scale it up or out where possible.
+
+## Tips
+
+- 504 errors means the gateway has timed out. This means that the application not responding within the idle timeout period.
+- Trouble shoot the application. Is it the web server or database server?
+- If you need the IPv4 address of your end user, look for the **X-Forwarded-For** header.
