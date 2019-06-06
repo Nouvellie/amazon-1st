@@ -7,3 +7,4 @@
 - [Volumes and snapshots.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/02.ec2/volumes-and-snapshots.md)
 - [AMI types.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/02.ec2/ami-types.md)
 - [Encrypt.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/02.ec2/encrypt.md)
+- [CloudWatch.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/02.ec2/cloudwatch.md)
