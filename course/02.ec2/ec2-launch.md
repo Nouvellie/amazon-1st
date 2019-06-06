@@ -23,7 +23,18 @@ Click on *services* and then **launch**.
 	- Size: 8 (GiB)
 	- [x] Delete on termination.
 - Tags:
+	- [x] Instances.
+	- [x] Volumes.
 
 | Name  | WebServer |
 | --- | --- |
 | Department | Developer |
+| EmployeeID | 123456 |
+
+- Security group:
+	- Select an **existing** security group.
+
+- Review: 
+	- Create a new key pair.
+	- Key pair name: \<keyname\>.
+	- Download Key Pair and launch instances.
