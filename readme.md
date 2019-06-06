@@ -3,7 +3,7 @@
 <h2>AWS Certified Solutions Architect (Associate 2019)</h2>
 
 - [IAM & S3.](https://github.com/Nouvellie/amazon-1st/tree/amazon/course/01.iam-and-s3)
-
+- [EC2](https://github.com/Nouvellie/amazon-1st/tree/amazon/course/02.ec2)
 
 <br><br>
 <p align="center">
