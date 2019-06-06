@@ -5,4 +5,4 @@
 - [Security groups.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/02.ec2/security-groups.md)
 - [EBS 101](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/02.ec2/ebs-101.md)
 - [Volumes and snapshots.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/02.ec2/volumes-and-snapshots.md)
-- [Amy types.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/02.ec2/ami-types.md)
+- [AMI types.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/02.ec2/ami-types.md)
