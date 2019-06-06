@@ -23,6 +23,7 @@ Click on *services* and then **launch**.
 	- Size: 8 (GiB)
 	- [x] Delete on termination.
 - Tags:
-	| Name  | WebServer |
-	| --- | --- |
-	| Department | Developer |
+
+| Name  | WebServer |
+| --- | --- |
+| Department | Developer |
