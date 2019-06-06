@@ -24,4 +24,5 @@ Click on *services* and then **launch**.
 	- [x] Delete on termination.
 - Tags:
 	| Name  | WebServer |
+	| --- | --- |
 	| Department | Developer |
