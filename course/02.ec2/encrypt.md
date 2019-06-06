@@ -12,3 +12,5 @@
 
 - Create a snapshot of the unencrypted root device volume.
 - Create a copy of the snapshot and select the encrypt option.
+- Create an AMI from the encrypted snapshot.
+- Use that AMI to launch new encrypted instances.
