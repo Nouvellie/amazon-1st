@@ -36,5 +36,13 @@ Click on *services* and then **launch**.
 
 - Review: 
 	- Create a new key pair.
-	- Key pair name: \<keyname\>.
+	- Key pair name: \<keypairname\>.
 	- Download Key Pair and launch instances.
+
+## Settings:
+
+```sh
+$ chmod 400 <keypairname.pem>
+$ ssh ec2-user@<public-ip> -i <keypairname.pem>
+yes
+```
