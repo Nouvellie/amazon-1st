@@ -6,7 +6,7 @@
 - []()
 - []()
 - []()
-- [HA Architecture.]()
+- [HA Architecture.](https://github.com/Nouvellie/amazon-1st/tree/amazon/course/06.ha-architecture)
 
 
 <br><br><p align="center">
