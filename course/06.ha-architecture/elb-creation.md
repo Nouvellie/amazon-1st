@@ -18,7 +18,6 @@ Select an existing or new security group.
 
 ## Configure health check
 
-##
 - **Ping protocol**: \<HTTP\>
 - **Ping port**: \<80\>
 - **Ping path**: \<projectpath-or-index.html\>
@@ -37,7 +36,7 @@ Select all the instance to apply ELB.
 - [x] Enable Cross-Zone load balancing.
 - [x] Enable connection draining. \<300\>
 
-#### Status of instance 
+#### Status of instance:
 
 Check load balancer instances:
 - [x] InService.
@@ -75,6 +74,6 @@ So it is basically you could have a group of loot of easy two instances for your
 - Name: \<mynewloadbalancer\>
 - Scheme: \<internet-facing\>
 
-#### Listener
+#### Listener:
 
 On *listener* the rules can be edited.
