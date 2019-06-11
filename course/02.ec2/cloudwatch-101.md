@@ -3,7 +3,7 @@
 
 Amazon CloudWatch is a monitoring service to monitor your AWS resources, as well as the application that you run on AWS.
 
-## Monitors performance.
+## Monitors performance
 
 - Compute:
 	- Ec2 instances.
@@ -15,7 +15,7 @@ Amazon CloudWatch is a monitoring service to monitor your AWS resources, as well
 	- Storage gateways.
 	- CloudFront.
 
-## Host level metrics consist of:
+## Host level metrics consist of
 
 - CPU.
 - Network.
