@@ -4,7 +4,7 @@
 - [IAM & S3.](https://github.com/Nouvellie/amazon-1st/tree/amazon/course/01.iam-and-s3)
 - [EC2.](https://github.com/Nouvellie/amazon-1st/tree/amazon/course/02.ec2)
 - []()
-- []()
+- [Route53.](https://github.com/Nouvellie/amazon-1st/tree/amazon/course/04.route53)
 - []()
 - [HA Architecture.](https://github.com/Nouvellie/amazon-1st/tree/amazon/course/06.ha-architecture)
 
