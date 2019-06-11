@@ -58,7 +58,7 @@ Select *AWS service*, and then:
 - Role name: S3_Admin_Access.
 - Role description: Allows EC2 instances to call AWS services on your behalf.
 
-## What have we learnt so far.
+## What have we learnt so far?
 
 - IAM is universal: It does not apply to regions at this time.
 - The **root account** is simply, the account created when first setup your AWS account, It has complete Admin Access.
