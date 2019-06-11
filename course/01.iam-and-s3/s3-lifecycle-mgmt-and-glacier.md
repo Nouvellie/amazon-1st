@@ -15,7 +15,7 @@ Click on *management* and then **Lifecycle**.
 	- [x] Transition to Standard-IA after: <30> (days after creation)
 	- [x] Transition to Amazon Glacier after: <60> (days after creation)
 
-#### Expiration
+#### Expiration:
 
 - Configure expiration.
 	- [x] Current version.
