@@ -27,7 +27,7 @@ You cab enable Sticky Sessions for application Load Balancer as well, but the tr
 	- B (50)
 		- B1: 20%.
 
-## What are path patterns
+## What are path patterns?
 
 You can create a listener with rules to forward requests based on the URL path. This is known as path-based routing. If you are running microservices, you can route traffic to multiple back-end services uing path-based routing. For example, you can route general requests to one target group and requests to render images to another target group.
 
