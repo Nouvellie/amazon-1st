@@ -1,5 +1,5 @@
 # ADVANCED LOAD BALANCER
-## What are Sticky Sessions
+## What are Sticky Sessions?
 
 Classic Load Balancer routes each request independently to the registered EC2 instance with the smallest load.
 
