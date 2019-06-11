@@ -1,4 +1,4 @@
-# AUTOSCALING GROUP
+# AUTO SCALING GROUP
 ## Create launch configuration
 
 - **Name**: \<nameoflc\>
