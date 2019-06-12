@@ -9,3 +9,4 @@
 - [Failover routing policy.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/04.route53/failover-routing-policy.md)
 - [Geolocation routing policy.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/04.route53/geolocation-routing-policy.md)
 - [Geoproximity routing policy.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/04.route53/geoproximity-routing-policy.md)
+- [Multivalue answer policy.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/04.route53/multivalue-answer-policy.md)
