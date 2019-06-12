@@ -6,3 +6,4 @@
 - [Simple routing policy.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/04.route53/simple-routing-policy.md)
 - [Weighted routing policy.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/04.route53/weighted-routing-policy.md)
 - [Latency routing policy.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/04.route53/latency-routing-policy.md)
+- [Failover routing policy.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/04.route53/failover-routing-policy.md)
