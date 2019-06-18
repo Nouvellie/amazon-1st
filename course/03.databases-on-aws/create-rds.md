@@ -7,7 +7,7 @@
 	- Except: 
 		- DB instance class: \<t2.micro\>
 - **Estimated monthly costs**: **15.68 USD**.
-- DB instance identifier: \<databaseinstancename\>
+- Database instance identifier: \<databaseinstancename\>
 - Master username: \<masterusername\>
 - Master password: \<masterpassword\>
 - Database name: \<databasename\>
