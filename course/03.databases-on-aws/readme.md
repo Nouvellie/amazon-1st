@@ -6,3 +6,4 @@
 - [Dynamo DB.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/03.databases-on-aws/dynamo-db.md)
 - [Redshift.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/03.databases-on-aws/redshift.md)
 - [Aurora.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/03.databases-on-aws/aurora.md)
+- [ElastiCache.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/03.databases-on-aws/elasticache.md)
