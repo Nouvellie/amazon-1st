@@ -5,7 +5,7 @@
 - [EC2.](https://github.com/Nouvellie/amazon-1st/tree/amazon/course/02.ec2)
 - [Database on AWS.](https://github.com/Nouvellie/amazon-1st/tree/amazon/course/03.databases-on-aws)
 - [Route53.](https://github.com/Nouvellie/amazon-1st/tree/amazon/course/04.route53)
-- []()
+- [Applications.](https://github.com/Nouvellie/amazon-1st/tree/amazon/course/05.applications)
 - [HA Architecture.](https://github.com/Nouvellie/amazon-1st/tree/amazon/course/06.ha-architecture)
 
 
