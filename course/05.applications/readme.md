@@ -6,3 +6,4 @@
 - [Elastic Transcoder.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/05.applications/elastic-transcoder.md)
 - [API Gateway.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/05.applications/api-gateway.md)
 - [Kinesis 101.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/05.applications/kinesis-101.md)
+- [Web identity federation.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/05.applications/web-identity-federation.md)
