@@ -5,7 +5,7 @@ A cluster placement group is a grouping of instances within a single Availabilit
 
 Only certain instances can be launched in to a Clustered Placement Group.
 
-## Spread placement group.
+## Spread placement group
 
 A spread placement group is a group of instances that are each placed on distinct underlying hardware.
 
