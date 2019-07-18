@@ -10,3 +10,4 @@
 - [CloudWatch 101.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/02.ec2/cloudwatch-101.md)
 - [CloudWatch.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/02.ec2/cloudwatch.md)
 - [Elastic file system.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/02.ec2/elastic-file-system.md)
+- [Placement group.](https://github.com/Nouvellie/amazon-1st/blob/amazon/course/02.ec2/placement-group.md)
