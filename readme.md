@@ -7,6 +7,7 @@
 - [Route53.](https://github.com/Nouvellie/amazon-1st/tree/amazon/course/04.route53)
 - [Applications.](https://github.com/Nouvellie/amazon-1st/tree/amazon/course/05.applications)
 - [HA Architecture.](https://github.com/Nouvellie/amazon-1st/tree/amazon/course/06.ha-architecture)
+- [VPCs.](https://github.com/Nouvellie/amazon-1st/tree/amazon/course/07.vpcs)
 
 
 <br><br><p align="center">
