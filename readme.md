@@ -8,6 +8,7 @@
 - [Applications.](https://github.com/Nouvellie/amazon-1st/tree/amazon/course/05.applications)
 - [HA Architecture.](https://github.com/Nouvellie/amazon-1st/tree/amazon/course/06.ha-architecture)
 - [VPCs.](https://github.com/Nouvellie/amazon-1st/tree/amazon/course/07.vpcs)
+- [Serverless.](https://github.com/Nouvellie/amazon-1st/tree/amazon/course/08.serverless)
 
 
 <br><br><p align="center">
